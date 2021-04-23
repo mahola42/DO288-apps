@@ -14,7 +14,7 @@ pipeline {
         DEV_PROJECT = "mahola-books-dev"
         STAGE_PROJECT = "mahola-books-stage"
         APP_GIT_URL = "https://github.com/mahola/DO288-apps"
-        NEXUS_SERVER = "http://nexus-common.apps.eu45prod.nextcle.com/repository/nodejs"
+        NEXUS_SERVER = "http://nexus-common.apps.eu45.prod.nextcle.com/repository/nodejs"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
         APP_NAME = "books"
